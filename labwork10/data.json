@@ -1,0 +1,21 @@
+{
+  "refresh_time": 10000,
+  "days": 10,
+  "cities": [
+    "Moscow",
+    "Saint_Petersburg",
+    "London",
+    "Rome",
+    "New_York",
+    "Madrid",
+    "Venice",
+    "Florence",
+    "Berlin",
+    "Rostov",
+    "Paris",
+    "Oslo",
+    "Barcelona",
+    "Budapest",
+    "San_Francisco"
+  ]
+}

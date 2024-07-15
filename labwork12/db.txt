@@ -1,0 +1,3 @@
+Name   | City             | ID | 
+Dixy   | Saint-Petersburg | 1  | 
+MVideo | Moscow           | 2  | 
