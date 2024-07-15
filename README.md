@@ -1,6 +1,6 @@
 # CPlusPlusProjects
 
-Here are my projects written in C++. They are laboratory tasks that I performed during my 1st and 2nd semesters at the university
+Here are my projects written in ***C++***. They are laboratory tasks that I performed during my 1st and 2nd semesters at the university
 
 [1st Project](https://github.com/chtonad0000/CPlusPlusProjects/tree/main/labwork1)
 
